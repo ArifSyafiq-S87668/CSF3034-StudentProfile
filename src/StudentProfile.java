@@ -17,7 +17,8 @@ public class StudentProfile {
         System.out.print("Student ID : S87668\n");
         System.out.print("Programme : Bachelor of Software Engineering\n");
         System.out.print("Semester : Semester 1\n");
-        System.out.print("Favourite Language : Java");
+        System.out.print("Favourite Language : Java\n");
+        System.out.print("Grade : Excellent");
     }
     
 }
